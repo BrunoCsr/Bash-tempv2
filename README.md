@@ -6,6 +6,6 @@ Some basic *introductions* **here**
 - Second item
 - Thirs item
 
-  This is a [link](https://www.google.com)
+  This is a [link](https://www.google.com/)
 
   
